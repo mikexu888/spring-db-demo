@@ -9,7 +9,7 @@ metadata:
     app.kubernetes.io/name: java
     app.kubernetes.io/part-of: spring-db-demo-app
     app.openshift.io/runtime: java
-    app.openshift.io/runtime-version: openjdk-8-el7
+    app.openshift.io/runtime-version: openjdk-8
   name: spring-db-demo
 spec:
   ports:
